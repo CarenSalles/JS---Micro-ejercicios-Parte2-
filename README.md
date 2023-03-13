@@ -1,8 +1,8 @@
-Utilizando la kata Fizzbuzz como base (para evitar crear un proyecto desde cero. Recuerda solo tienes que duplicar la carpeta). Realizar lo siguiente ejercicio sin orientación a objetos o con orientación a objetos (segunda opción recomendada).
+# Realizar lo siguiente ejercicio sin orientación a objetos o con orientación a objetos (segunda opción recomendada).
 
-Ejercicio 1:
+## Ejercicio 1:
 Crea un programa que pida el nombre de usuario y la edad y si es mayor de 18 indica que puede conducir.
-Ejercicio 2: 
+## Ejercicio 2: 
 Calcula la letra del DNI (Documento nacional de identidad).
 El algoritmo para calcular la letra del dni es el siguiente :
 El número debe ser entre 0 y 99999999
@@ -11,4 +11,22 @@ Según el resultado, de 0 a 22, le corresponderá una letra de las siguientes:  
 Si lo introducido no es un número deberá indicarse con un alert y volver a preguntar.
 Deberá de repetirse el proceso hasta que el usuario pulse «cancelar».
 
-https://www.letranif.com/formula-para-calcular-nif/
+Enlace de formulário para calcular DNI: https://www.letranif.com/formula-para-calcular-nif/
+
+Vista de la página:
+
+![Captura de tela 2023-03-13 171640](https://user-images.githubusercontent.com/116892294/224763600-c3cf9916-1746-49e1-840d-f0154931c6c6.png)
+
+## Hierramientas Usadas:
+. HTML
+. JAvaScript
+.Css3
+
+## Pre-requirement:
+. node.js & npm
+
+## Installation:
+$ npm install
+
+## Autor:
+Caren Salles
