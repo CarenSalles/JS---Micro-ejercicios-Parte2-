@@ -18,15 +18,19 @@ Vista de la página:
 ![Captura de tela 2023-03-13 171640](https://user-images.githubusercontent.com/116892294/224763600-c3cf9916-1746-49e1-840d-f0154931c6c6.png)
 
 ## Hierramientas Usadas:
-. HTML
-. JAvaScript
-.Css3
-
+<div align="center">
+  <img align="center" alt="HTML" title="HTML 5" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" title="CSS 3" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" title="JS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/js/js-original.svg">
+  
+  
+  
 ## Pre-requirement:
-. node.js & npm
+node.js & npm
+
 
 ## Installation:
-$ npm install
+$npm install
 
 ## Autor:
-Caren Salles
+Caren Salles           
