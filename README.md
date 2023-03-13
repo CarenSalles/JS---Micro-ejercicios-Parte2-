@@ -30,7 +30,8 @@ node.js & npm
 
 
 ## Installation:
-$npm install
+  
+npm install
 
 ## Autor:
 Caren Salles           
